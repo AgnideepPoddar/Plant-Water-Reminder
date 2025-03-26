@@ -9,12 +9,13 @@ A beautifully designed **SwiftUI** app that helps you track plant watering sched
 - **Beautiful UI & Animations**: Smooth and interactive experience.
 - **Offline Support**: Saves plant data locally using `UserDefaults`.
 
-## 📱 Screenshots
-| Home Screen | Add Plant | Dynamic Tips |
-|-------------|----------|--------------|
-| ![Home](screenshots/home.png) | ![Add Plant](screenshots/add_plant.png) | ![Tips](screenshots/tips.png) |
-
 ## 🛠️ Technologies Used
 - **SwiftUI**: For building a modern and intuitive UI.
 - **Combine**: For reactive data handling.
 - **UserDefaults**: To store plant data persistently.
+
+## 🤝 Contributions  
+Contributions are welcome! Feel free to open issues or submit pull requests.  
+
+## 📜 License  
+This project is for educational purposes and follows the **MIT License**.
